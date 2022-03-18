@@ -1,0 +1,5 @@
+1) List to-be-hashed essential game files in a .txt
+2) Load data from files, concatenate them and calculating single hash from the result
+3) If hash matches some game in DB, proceed
+4) Load memory snapshot from DB to put player at game start with intended config
+
